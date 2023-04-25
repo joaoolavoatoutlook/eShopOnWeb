@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-JOAOOLAVO
   LOCATION: brazilsouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: cb035de5-f58c-4295-be41-4c1a363e6c6
+  SUBSCRIPTION-ID: cb035de5-f58c-4295-be41-4c1a363e6c6f
   WEBAPP-NAME: az400-webapp-JOAOOLAVO
 
 
